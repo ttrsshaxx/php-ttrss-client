@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/hspaans/php-ttrss-client.svg)](https://travis-ci.org/hspaans/php-ttrss-client)
+
 php-ttrss-client
 ================
 
