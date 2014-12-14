@@ -1,0 +1,22 @@
+{
+	"type": "project",
+	"name": "hspaans/php-ttrss-client",
+	"description": "A PHP client library for accessing TT-RSS through the API.",
+	"license": "LGPL-3.0",
+	"authors": [
+		{
+			"name": "Hans Spaans",
+			"email": "hans@dailystuff.nl",
+			"role": "Developer"
+		}
+	],
+	"require": {
+	},
+	"require-dev": {
+		"phpunit/phpunit": ">=3.7.0",
+		"phpunit/phpunit-skeleton-generator": ">=2.0.1"
+	},
+	"autoload": {
+		"psr-0": { "": "lib/" }
+	}
+}
